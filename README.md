@@ -1,2 +1,3 @@
 # PlantillaLandingBiblioteca
-# Aplicació per la gestio de la biblioteca del barri
+# Aplicació per la gestió de la biblioteca del barri
+# TUS MUERTIS
